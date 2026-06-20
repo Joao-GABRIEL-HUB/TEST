@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Apredendo GitHub")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0a04ebab54063632eefc4d3c160210de88c4aa6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea7259ddd5a19fa2369b3671afccaef15c7c83e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Apredendo GitHub")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Apredendo GitHub")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
