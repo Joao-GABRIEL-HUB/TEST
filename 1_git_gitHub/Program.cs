@@ -11,6 +11,8 @@ Pessoa pessoa1 = new("João", 23, 155398);
 System.Console.WriteLine(pessoa1.Nome);
 System.Console.WriteLine(pessoa1.Idade);
 System.Console.WriteLine(pessoa1.CPF);
+
+Pessoa pessoa2 = new ("Gabriel", 26, 8730182);
 public class Pessoa
 {
     public string Nome;
